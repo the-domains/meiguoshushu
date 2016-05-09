@@ -1,7 +1,7 @@
 name: meiguoshushu
 favicon: null
-layout_spectrum: 0.949821894057095
-typography_spectrum: 0.41401232476346195
+layout_spectrum: 0.14308
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#73b5ff'
+    - '#6b6c71'
+    - '#e5dfcf'
+    - '#4a4742'
+    - '#0f0f11'
   brandStrength: 0.7077288099098951
-  lightness: 0.26756010483950377
-  saturation: 0.07806627987883985
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 0.5668995655141771
 purpose: []
