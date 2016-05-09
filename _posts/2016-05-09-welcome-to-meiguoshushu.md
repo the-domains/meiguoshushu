@@ -4,13 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: |+
-
-
-
-
-datePublished: '2016-05-09T21:13:40.077Z'
-dateModified: '2016-05-09T21:13:27.490Z'
+description: Welcome to MeiGuoShuShu
+datePublished: '2016-05-09T21:17:58.173Z'
+dateModified: '2016-05-09T21:17:50.357Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-welcome-to-meiguoshushu.md
@@ -25,8 +21,7 @@ url: welcome-to-meiguoshushu/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f85761b-7b75-47e9-a95e-72df5ad7d600.jpg)
-
 Welcome to MeiGuoShuShu
 
 欢迎来到美国叔叔网站
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b103350-87c6-4007-84ad-f2303189fd5c.jpg)
